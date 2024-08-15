@@ -1,1 +1,1 @@
-# py_arcgis_api_recipes
+ Recipes for ArcGIS Online API for Python
